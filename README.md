@@ -20,10 +20,13 @@
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=felicio.rar@gmail.com" alt="Outlook"/></a>
 
 
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fel%C3%ADcio-rodney-almeida-rocha-230930204//)
+
+
   <a href="https://api.whatsapp.com/send?phone=+5533999344257&text=Hello!">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5527996224428&text=Hello!" alt="WhatsApp"/></a>
 
-
+ 
   <a href="https://www.instagram.com/felicio.almd">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/felicio.almd" alt="Instagram"/></a>
 </p>
