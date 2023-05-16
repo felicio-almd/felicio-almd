@@ -1,45 +1,32 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My GitHub README</title>
-</head>
-<body>
-  <h1>Welcome to My GitHub!</h1>
+<h3>Welcome to my profile 👋</h3>
 
-  <h2>About Me</h2>
-  <a href="https://github.com/felicio-almd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felicio-almd&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
-  <p align="left">
-    Hello! My name is Felicio Almeida, and I am a programming enthusiast with a focus on software development. I have experience with various programming languages and am always eager to learn new things and take on exciting challenges. Here on my GitHub, you will find some of my projects and works related to different areas of programming.</p>
+#
+<a href="https://github.com/felicio-almd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felicio-almd&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
 
-  <h2>Social Media</h2>
-  <ul>
-    <li><a href="https://www.linkedin.com/in/fel%C3%ADcio-rodney-almeida-rocha-230930204/">LinkedIn</a></li>
-    <li><a href="https://www.instagram.com/felicio.almd/">Instagram</a></li>
-  </ul>
+<p align="left"> 
+  My name is Felicio Almeida, I'm 19 years old and I'm always looking to learn more. I am currently studying <strong>at UFES </strong> and in parallel to the study <strong> Software Development</strong>. 
+</p>
 
-  <h2>Technical Skills</h2>
-  <p>Here are some of the languages and technologies I work with:</p>
-  <ul>
-    <li>Java</li>
-    <li>Python</li>
-    <li>JavaScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
-  </ul>
+<p align="left">
+  🎯 Skills: <strong>HTML5, CSS3, JavaScript, Java, Python.</strong>
+</p>
 
-  <h2>Projects</h2>
-  <p>In this GitHub repository, you will find a selection of some of my projects and works. Feel free to explore, and if you have any questions or suggestions, don't hesitate to get in touch.</p>
+<p align="left">
+  📩 Contact: ⤵️
+</p>
 
-  <h2>Contribution</h2>
-  <p>I love collaborating with other developers and learning from their experiences. If you have an interesting project you'd like to work on together, feel free to reach out to me. I'm always open to new opportunities and partnerships.</p>
+<p align="left">
+  <a href="mailto:feliciorar@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=felicio.rar@gmail.com" alt="Outlook"/></a>
 
-  <h2>Contact</h2>
-  <p>If you would like to get in touch with me to discuss collaborations, job opportunities, or simply have a chat about programming, you can find me on the aforementioned social media platforms or send an email to <a href="mailto:feliciorar@gmail.com">feliciorar@gmail.com</a>.</p>
 
-  <p>I'm looking forward to connecting with you!</p>
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fel%C3%ADcio-rodney-almeida-rocha-230930204//)
 
-  <p>Thank you for visiting, and enjoy the content available in this repository.</p>
 
-  <p>Felicio</p>
-</body>
-</html>
+  <a href="https://api.whatsapp.com/send?phone=+5533999344257&text=Hello!">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5527996224428&text=Hello!" alt="WhatsApp"/></a>
+
+ 
+  <a href="https://www.instagram.com/felicio.almd">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/felicio.almd" alt="Instagram"/></a>
+</p>
