@@ -4,7 +4,7 @@
 <a href="https://github.com/felicio-almd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felicio-almd&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
 
 <p align="left"> 
-  My name is Felicio Almeida, I'm 19 years old and I'm always looking to learn more. I am currently studying <strong>at UFES </strong> and in parallel to the study <strong> Software Development</strong>. 
+  My name is Felicio Almeida, I'm 20 years old and I'm always looking to learn more. I am currently studying <strong>at UFES </strong> and in parallel to the study <strong> Software Development</strong>. 
 </p>
 
 <p align="left">
