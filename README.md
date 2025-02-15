@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🎯 Skills: <strong>HTML5, CSS3, JavaScript, Java, Python.</strong>
+  🎯 Skills: <strong>PHP/Laravel, JavaScript, Java, C.</strong>
 </p>
 
 <p align="left">
