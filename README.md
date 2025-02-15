@@ -22,9 +22,5 @@
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fel%C3%ADcio-rodney-almeida-rocha-230930204//)
 
-
-  <a href="https://api.whatsapp.com/send?phone=+5533999344257&text=Hello!">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5527996224428&text=Hello!" alt="WhatsApp"/></a>
-
  
 </p>
