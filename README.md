@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=felicio.rar@gmail.com" alt="Outlook"/></a>
 
 
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fel%C3%ADcio-rodney-almeida-rocha-230930204//)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felicio-rodney-almeida-rocha/)
 
  
 </p>
