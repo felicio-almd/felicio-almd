@@ -1,6 +1,5 @@
 <h3>Welcome to my profile 👋</h3>
 
-#
 
 <p> 
   My name is Felicio Almeida. I am currently studying <strong>at UFES </strong> and in parallel to the study <strong> Software Development</strong>. 
