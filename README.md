@@ -4,7 +4,7 @@
 <!-- <a href="https://github.com/felicio-almd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felicio-almd&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a> -->
 
 <p align="right">
-  ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 </p>
 
 <p> 
