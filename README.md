@@ -1,9 +1,11 @@
 <h3>Welcome to my profile 👋</h3>
 
 #
-<a href="https://github.com/felicio-almd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felicio-almd&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
+//<a href="https://github.com/felicio-almd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felicio-almd&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
 
-<p align="left"> 
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<p> 
   My name is Felicio Almeida. I am currently studying <strong>at UFES </strong> and in parallel to the study <strong> Software Development</strong>. 
 </p>
 
@@ -22,7 +24,4 @@
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felicio-rodney-almeida-rocha/)
 
- 
 </p>
-
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
