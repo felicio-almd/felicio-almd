@@ -1,14 +1,12 @@
 <h3>Welcome to my profile 👋</h3>
-
 #
+<p> 
+  My name is Felicio Almeida. I am currently studying <strong>at UFES </strong> and in parallel to the study <strong> Software Development</strong>. 
+</p>
 <!-- <a href="https://github.com/felicio-almd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felicio-almd&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a> -->
 
 <p align="right">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
-</p>
-
-<p> 
-  My name is Felicio Almeida. I am currently studying <strong>at UFES </strong> and in parallel to the study <strong> Software Development</strong>. 
 </p>
 
 <p align="left">
