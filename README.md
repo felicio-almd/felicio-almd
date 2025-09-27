@@ -20,11 +20,11 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxtdotjs&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 </p>
 
