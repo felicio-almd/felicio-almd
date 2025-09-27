@@ -33,11 +33,12 @@
 </p>
 
 <p align="left">
+   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felicio-rodney-almeida-rocha/)
   <a href="mailto:feliciorar@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=felicio.rar@gmail.com" alt="Outlook"/></a>
 
 
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felicio-rodney-almeida-rocha/)
+ 
 
   You can find me at: 
 </p>
