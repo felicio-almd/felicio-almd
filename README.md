@@ -40,6 +40,6 @@
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=felicio.rar@gmail.com" alt="Outlook"/></a>
 
 </p>
-<p>
-  You can find me at: [dev felicio](https://devfelicio.com)
-</p>
+
+ You can find me at [devfelicio.com](https://www.linkedin.com/in/felicio-almeida/)
+
