@@ -41,5 +41,5 @@
 
 </p>
 
- You can find me at [devfelicio.com](https://www.linkedin.com/in/felicio-almeida/)
+ You can find me at [devfelicio.com](https://devfelicio-com.vercel.app/)
 
